@@ -1,6 +1,6 @@
 # Eksperimen: Seberapa Sering AI Ngarang?
 
-Proyek belajar AI dari nol. Di sini gue (isi nama lo) mencatat apa yang gue pelajari dan menguji sendiri
+Proyek belajar AI dari nol. Di sini gue (Regal) mencatat apa yang gue pelajari dan menguji sendiri
 bagaimana chatbot AI menjawab pertanyaan, terutama kapan jawabannya benar dan kapan jawabannya ngarang
 (*hallucination*).
 
