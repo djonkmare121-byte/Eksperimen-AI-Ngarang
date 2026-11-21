@@ -18,7 +18,10 @@ Pertanyaan gue: **jenis pertanyaan apa yang paling sering bikin AI salah, dan ba
 Detail dan hasilnya ada di [`eksperimen/hasil.md`](eksperimen/hasil.md).
 
 ## Hasil singkat
-*(Isi setelah eksperimen selesai: berapa yang benar, berapa yang ngarang, dan kelompok pertanyaan mana yang paling bermasalah.)*
+Benar : 10
+Hampir benar : 3
+Ngarang : 1
+Salah : 1
 
 ## Isi repo
 ```
