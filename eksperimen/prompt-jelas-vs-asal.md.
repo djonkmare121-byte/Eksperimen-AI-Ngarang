@@ -1,0 +1,54 @@
+Eksperimen: Prompt Jelas vs Prompt Asal-asalan
+Pertanyaan yang dijawab
+Seberapa besar bedanya hasil AI kalau prompt-nya jelas dibanding asal-asalan?
+Cara kerja
+Pilih 3 tugas (contoh di bawah).
+Untuk tiap tugas, tulis dua prompt:
+Prompt asal: Buatkan aplikasi inventory hub
+Prompt jelas: buatkan aplikasi inventory hub untuk staff Gudang dan admin, agar memudahkan operasional hub dan stock di Gudang menjadi rapi, buat aplikasi memiliki fitur dashboard, analytic dan form transaksi, Format buat web app dan mobile friendly, jangan buat kode dulu tapi berikan contoh tampilannya
+Kirim keduanya ke AI yang sama, di percakapan baru yang terpisah.
+Bandingkan hasilnya dan beri nilai 1 sampai 5 untuk: kesesuaian dengan tujuan, kejelasan, dan kebenaran.
+Tulis pola yang gue temukan.
+Informasi pengujian
+Tanggal:22/11/2026
+AI yang dipakai (nama dan versi): metaAI
+Pencarian web: aktif
+Contoh tugas
+Menjelaskan apa itu machine learning ke anak SMP.
+Membuat jadwal belajar AI 1 minggu untuk pemula.
+Menulis email permohonan izin tidak masuk kerja karena sakit.
+Template pencatatan (ulangi untuk tiap tugas)
+Tugas 1: (nama tugas)
+Prompt asal:
+```
+(tulis prompt)
+```
+Hasil (ringkas):
+Prompt jelas:
+```
+Peran:
+Konteks:
+Tugas:
+Format hasil:
+Contoh (kalau ada):
+```
+Hasil (ringkas):
+Aspek	Prompt asal	Prompt jelas
+Kesesuaian dengan tujuan (1-5)		
+Kejelasan (1-5)		
+Kebenaran (1-5)		
+Catatan gue:
+Rekap
+Tugas	Total nilai prompt asal	Total nilai prompt jelas
+1		
+2		
+3		
+Kesimpulan (tulis sendiri)
+Unsur prompt mana yang paling besar pengaruhnya (peran, konteks, format, atau contoh)?
+Apakah prompt yang panjang selalu lebih baik?
+Apakah ada hasil yang bagus tapi isinya keliru? Cek ke sumber asli.
+Aturan praktis apa yang gue pakai mulai sekarang saat menulis prompt?
+Keterbatasan
+Hanya 3 tugas, jadi ini bukan bukti ilmiah.
+Penilaian 1 sampai 5 bersifat subjektif.
+AI bisa memberi jawaban berbeda untuk prompt yang sama, jadi hasilnya bisa berubah kalau diulang.
