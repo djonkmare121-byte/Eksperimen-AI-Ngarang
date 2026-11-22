@@ -30,7 +30,15 @@ Teks ke teks	sebuah kata	menghasilkan kata yang baru	buatkan puisi dari kata sen
 Teks ke gambar	rangkain kata yang menerangkan keadaan	menghasilkan gambar tergantung kualitas perintahnya	buatkan gambar seoarang kakek sedang duduk di depan rumah, dan memandangi matahari terbenam
 Teks ke video	rangkain kata yang menerangkan keadaan	menghasilkan video tergantung kualitas perintahnya	buatkan video seoarang kakek sedang duduk di depan rumah, dan memandangi matahari terbenam
 Teks ke aksi/tugas	rangkain teks untuk memerintah AI utuk membuat dashboard	AI akan coding dan menghasilkan dashboard	buatkan dashboard penjualan
-Yang masih belum gue paham
-paham
-Yang bisa gue coba dari ini
-Eksperimen prompt jelas vs asal-asalan (lihat `eksperimen/prompt-jelas-vs-asal.md`).
+discriminative AI itu salah satu jenis machine learning, tapi keduanya gak sama persis. Gw asumsikan yang lo maksud “discriminative” seperti lawan dari “generative” di materi tadi, bukan diskriminasi dalam arti bias (itu topik lain).
+
+Machine Learning
+ ├─ Diskriminatif  → memprediksi atau mengklasifikasi
+ └─ Generatif      → menciptakan konten baru
+
+Keduanya sama-sama machine learning, bedanya di tugas.
+
+Diskriminatif belajar membedakan atau memutuskan: ini kategori yang mana, atau angkanya berapa. Contohnya filter spam, pengenal kucing atau anjing, dan prediksi harga rumah.
+Generatif belajar pola data lalu membuat data baru yang mirip, seperti teks, gambar, dan suara.
+
+Analogi gampangnya: petugas pemeriksa tiket versus pembuat tiket. Petugas cuma memutuskan “asli atau palsu”, sedangkan pembuat tiket menciptakan tiketnya.
